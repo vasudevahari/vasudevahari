@@ -1,4 +1,4 @@
-<h1 align="center">Vasudeva Hari 📘</h1>
+<h1 align="center">Vasudeva Hari </h1>
 
 <p align="center">
   <strong>Developer</strong> • <strong>Learning AI & Software Development</strong>
@@ -6,7 +6,7 @@
 
 ---
 
-# 💫 About Me:
+#  About Me:
 B.Tech CSE (AI & DS) • 2nd Year  <br>Student exploring software development and AI 🤖  <br>Interested in AI, backend tech stuff and problem-solving  <br>Focused on learning, improving, and writing clean code 💻
 
 
