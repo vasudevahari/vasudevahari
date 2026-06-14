@@ -7,7 +7,7 @@
 ---
 
 #  About Me:
-B.Tech CSE (AI & DS) • 3nd Year  <br>Student exploring software development and AI 🤖  <br>Interested in AI, backend tech stuff and problem-solving  <br>Focused on learning, improving, and writing clean code 💻
+B.Tech CSE (AI & DS) • 3rd Year  <br>Student exploring software development and AI 🤖  <br>Interested in AI, backend tech stuff and problem-solving  <br>Focused on learning, improving, and writing clean code 💻
 
 
 ## 🌐 Socials:
